@@ -262,24 +262,33 @@ div.sept {
     top: 70%;
 }
 
-article.etudes1 {
+article.etudes0 {
     text-align: center;
     margin-left: 10%;
     margin-right: 10%;
 }
 
-article.etudes2 {
+
+article.etudes1 {
     text-align: center;
     margin-left: 10%;
     margin-right: 10%;
     background-color:rgb(0, 197, 197);
 }
 
+article.etudes2 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    background-color: darkcyan;
+}
+
 article.etudes3 {
     text-align: center;
     margin-left: 10%;
     margin-right: 10%;
-    background-color: darkcyan;
+    background-color: #006060;
 }
 
 h2.index {
